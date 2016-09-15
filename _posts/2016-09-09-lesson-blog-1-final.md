@@ -1,0 +1,60 @@
+---
+title: lesson blog 1 final
+layout: post
+author: louis.mcauley
+permalink: /lesson-blog-1-final/
+source-id: 1xZfz2viiBsUR13L03DxNFgOieVdkGMCbACcOjw216PE
+published: true
+---
+<table>
+  <tr>
+    <td>Title</td>
+    <td>Making a blog</td>
+    <td>Date</td>
+    <td>9/9/16</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Starting point:</td>
+    <td>To create a github static webpage</td>
+  </tr>
+  <tr>
+    <td>Target for this lesson?</td>
+    <td>To have a Github Pages Static Website</td>
+  </tr>
+  <tr>
+    <td>Did I reach my target? 
+(add details to "Lesson Review")</td>
+    <td>Yes I was able to complete my target </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Lesson Review</td>
+  </tr>
+  <tr>
+    <td>How did I learn? What strategies were effective? </td>
+  </tr>
+  <tr>
+    <td>I listened carefully to all the instructions that mr keen gave me and made sure to write them down as to not forget anything and break my website. If I didn't know what to do I would try multiple things in order to try and find the right one. I also worked efficiently through all the tasks meaning I had time to write this during the lesson. </td>
+  </tr>
+  <tr>
+    <td>What limited my learning? Which habits do I need to work on? </td>
+  </tr>
+  <tr>
+    <td>As a learner I have fallen into the nasty habit of asking for help the moment I don’t know what to do. In order to advance as an independent learner I will have to try and work things out on my own and not ask for help when i am stuck with a problem I can fix on my own. I also got too distracted by </td>
+  </tr>
+  <tr>
+    <td>What will I change for next time? How will I improve my learning?</td>
+  </tr>
+  <tr>
+    <td>Next lesson I will work harder to ignore any distractions that might stop me from learning productively. I will also try harder to figure out problems on my own without asking someone else to do my learning for me. To do this I will work at a slower pace so that i can take my time and do all of my work to a high standard.</td>
+  </tr>
+</table>
+
+
