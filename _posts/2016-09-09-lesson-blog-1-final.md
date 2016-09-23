@@ -1,5 +1,5 @@
 ---
-title: lesson blog 1 final
+title: lesson blog 1 
 layout: post
 author: louis.mcauley
 permalink: /lesson-blog-1-final/
