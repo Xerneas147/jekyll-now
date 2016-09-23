@@ -8,27 +8,27 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
-    <td>Editing my blog</td>
-    <td>Date</td>
-    <td>21/9/16</td>
+    <th>Title</th>
+    <th>Editing my blog</th>
+    <th>Date</th>
+    <th>21/9/16</th>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Starting point:</td>
-    <td>I have made my static website but it looks a little boring</td>
+    <th>Starting point:</th>
+    <th>I have made my static website but it looks a little boring</th>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
-    <td>To edit my static website and make it look awesome</td>
+    <th>Target for this lesson?</th>
+    <th>To edit my static website and make it look awesome</th>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
-    <td> Yes I did reach my target for this lesson</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
+    <th> Yes I did reach my target for this lesson</th>
   </tr>
 </table>
 
