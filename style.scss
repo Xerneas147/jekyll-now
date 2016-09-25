@@ -73,11 +73,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #000000;
   text-decoration: none;
 	cursor: crosshair;
   &:hover, &:active {
-    color: #000000;
+    color: purple;
   }
 }
 
