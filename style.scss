@@ -21,12 +21,9 @@ html {
   font-size: 100%;
 }
 
-div{
-	background-color: rgba (107, 186, 167, 0.6);
-}
-
 body {
 	background:#6C648B;
+	background-color: rgba (107, 186, 167, 0.6);
 	font: 18px/1.4 "Courier New", Courier, monospace;
         color: white;
 }
@@ -36,9 +33,6 @@ body {
   max-width: 740px;
   padding: #000000 10px;
   width: 100%;
-div{
-	background-color: rgba (107, 186, 167, 0.6);
-}
 }
 
 h1, h2, h3, h4, h5, h6 {
