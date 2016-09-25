@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I found that searching things that I didn't know on the infinite bank of knowledge also known as the world wide web was very helpful. I found that w3schools was a useful website for finding helpful information about css. I also used my previous knowledge from year 6 when i made a website in html and css ,at the time i was so proud but looking back on it i looked like a 3 year old made it,.</td>
+    <td>I found that searching things that I didn't know on the infinite bank of knowledge also known as the world wide web was very helpful. I found that w3schools was a useful website for finding helpful information about css. I also used my previous knowledge from year 6 when I made a website in html and css ,at the time I was so proud but looking back on it I looked like a 3 year old made it,.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
@@ -58,7 +58,5 @@ published: true
 </table>
 
 
-Goodbye,
-
-    Louis =)  
+Goodbye, Louis =)  
 
