@@ -41,13 +41,13 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I found that searching things that I didn't know on the infinite bank of knowledge also known as the world wide web was very helpful. I found that w3schools was a useful website for finding helpful information about css. I also used my previous knowledge from year 6 when I made a website in html and css ,at the time I was so proud but looking back on it I looked like a 3 year old made it,.</td>
+    <td>I found that searching things that I didn't know on the infinite bank of knowledge also known as the world wide web was very helpful. I found that w3schools was a useful website for finding helpful information about css. I also used my previous knowledge from year 6 when I made a website in html and css, at the time I was so proud but looking back on it I looked like a 3 year old made it.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>My learning was limited by my constant need to look up anything I could work out for myself (oh no I forgot how to type an F. I know I’ll google it). I also let myself get a tiny bit carried away with editing… well anything. So I edited anything I could. I edited the font, the margin, the colour, the hyperlink. I even made the pointer into a crosshair. So now it all looks a bit silly. In future I need to remember not to change anything i physically can.</td>
+    <td>My learning was limited by my constant need to look up anything I could work out for myself (oh no I forgot how to type an F. I know I’ll google it). I also let myself get a tiny bit carried away with editing… well anything. So I edited anything I could. I edited the font, the margin, the colour, the hyperlink. I even made the pointer into a crosshair. So now it all looks a bit silly. In future I need to remember not to change anything I physically can.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
