@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I listened carefully to all the instructions that mr keen gave me and made sure to write them down as to not forget anything and break my website. If I didn't know what to do I would try multiple things in order to try and find the right one. I also worked efficiently through all the tasks meaning I had time to write this during the lesson. </td>
+    <td>I listened carefully to all the instructions that Mr Keen gave me and made sure to write them down as to not forget anything and break my website. If I didn't know what to do I would try multiple things in order to try and find the right one. I also worked efficiently through all the tasks meaning I had time to write this during the lesson. </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
