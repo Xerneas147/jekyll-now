@@ -22,7 +22,7 @@ html {
 }
 
 body {
-	background: rgba(0, 102, 34, 0.6);
+	background:#000000;
   font: 18px/1.4 "Courier New", Courier, monospace;
   color: #339933;
 }
@@ -30,7 +30,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: #66ff33 10px;
+  padding: rgba(0, 153, 0, 0.6) 10px;
   width: 100%;
 }
 
