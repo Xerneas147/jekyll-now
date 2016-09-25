@@ -47,7 +47,7 @@ published: true
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>As a learner I have fallen into the nasty habit of asking for help the moment I don’t know what to do. In order to advance as an independent learner I will have to try and work things out on my own and not ask for help when i am stuck with a problem I can fix on my own. I also got too distracted by </td>
+    <td>As a learner I have fallen into the nasty habit of asking for help the moment I don’t know what to do. In order to advance as an independent learner I will have to try and work things out on my own and not ask for help when I am stuck with a problem I can fix on my own. I also got too distracted by </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
