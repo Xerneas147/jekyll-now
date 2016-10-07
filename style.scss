@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: #FBA100;
+    color: #666666;
   }
 }
 
@@ -65,7 +65,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #339933;
+  color: #666666;
 }
 
 p {
@@ -130,7 +130,7 @@ img {
   background: rgba(242, 242, 242, 0.6);
 }
 ::selection {
-  color: #66ff33;
+  color: #666666;
   background: $lightGray;
 }
 
@@ -155,12 +155,12 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom:  #b3ffb3 50px;
+  margin-bottom: #000000 50px;
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 10px solid #66ff33;
+  border-bottom: 10px solid #000000;
 
   @include mobile {
     text-align: center;
@@ -196,7 +196,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #000000;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -206,7 +206,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #000000;
   font-size: 16px;
 
   @include mobile {
@@ -271,7 +271,7 @@ nav {
 }
 
  table, th, td {
- 	border: 2px solid #B6A19E;
+ 	border: 2px solid #000000;
  	
  }
  
