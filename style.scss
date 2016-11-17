@@ -27,6 +27,7 @@ body {
 	background-image: url("http://wallpapercave.com/wp/VHCVRBV.jpg");
 	font: 18px/1.4 "Courier New", Courier, monospace;
         color: white;
+        text-shadow: 2px 2px black
 }
 
 .container {
@@ -183,7 +184,7 @@ img {
   }
 
   img {
-    border-radius: 25px;
+    border-radius: 100px;
   }
 }
 
