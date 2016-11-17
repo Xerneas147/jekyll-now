@@ -1,5 +1,5 @@
 ---
-title: lesson blog 1 
+title: lesson blog 1 to create a static webpage 
 layout: post
 author: louis.mcauley
 permalink: /lesson-blog-1-final/
