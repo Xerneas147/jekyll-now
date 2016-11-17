@@ -35,7 +35,6 @@ body {
   padding: #000000 10px;
   background-color: rgba(217, 217, 217, 0.6)
   border: 2px rgb(255, 255, 255);
-  border-radius: 25px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -273,11 +272,11 @@ nav {
 .table {
 	border-collapse: collapse;
 	width: 100%;
-        border-radius: 25px;
 }
 
  table, th, td {
  	border: 2px solid black;
+	border-radius: 25px;
  	
  }
  
