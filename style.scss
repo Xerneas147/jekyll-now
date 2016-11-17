@@ -130,6 +130,7 @@ img {
 ::-moz-selection {
   color: #ffffff;
   background: rgba(242, 242, 242, 0.6);
+  border-radius: 25px;
 }
 ::selection {
   color: #ffffff;
@@ -270,6 +271,7 @@ nav {
 .table {
 	border-collapse: collapse;
 	width: 100%;
+        border-radius: 25px;
 }
 
  table, th, td {
