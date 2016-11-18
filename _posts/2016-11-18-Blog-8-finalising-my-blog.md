@@ -22,7 +22,7 @@ published: true
     <th>my blog is looking good(ish) it needs some tweaks before being handed in.</th>
   </tr>
   <tr>
-    <hd>Target for this lesson?</th>
+    <th>Target for this lesson?</th>
     <th>to fully finish my blog.</th>
   </tr>
   <tr>
