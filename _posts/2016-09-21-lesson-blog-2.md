@@ -1,5 +1,5 @@
 ---
-title: lesson blog 2
+title: blog 2 editing my static webpage
 layout: post
 author: louis.mcauley
 permalink: /lesson-blog-2/
@@ -28,7 +28,7 @@ published: true
   <tr>
     <th>Did I reach my target? 
 (add details to "Lesson Review")</th>
-    <th> Yes I did reach my target for this lesson</th>
+    <th> Yes I did reach my target for this lesson well</th>
   </tr>
 </table>
 
