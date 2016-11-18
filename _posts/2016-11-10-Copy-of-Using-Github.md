@@ -1,5 +1,5 @@
 ---
-title: Blog 6
+title: Blog 6 editing my google sheet
 layout: post
 author: louis.mcauley
 permalink: /copy-of-using-github/
