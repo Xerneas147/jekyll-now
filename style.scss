@@ -31,7 +31,9 @@ body {
   margin: 0 auto;
   max-width: 740px;
   padding: #000000 10px;
-  background-color: rgba(217, 217, 217, 0.6)
+  background-color: rgba(217, 217, 217, 0.6);
+  border: black 7px;
+  border-radius: 25px;
 }
 
 h1, h2, h3, h4, h5, h6 {
