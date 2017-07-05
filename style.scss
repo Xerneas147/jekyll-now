@@ -355,8 +355,7 @@ iframe{
 }
 
 
-.dropdown-content a:hover {background-color:#a01414
-	;
+.dropdown-content a:hover {rgba(119, 122, 122, 0.6);
 }
 
 .dropdown:hover .dropdown-content {
@@ -365,5 +364,5 @@ iframe{
 
 
 .dropdown:hover .dropbtn {
-    background-color: rgba(119, 122, 122, 0.3);
+    background-color: rgba(119, 122, 122, 0.6);
 }
